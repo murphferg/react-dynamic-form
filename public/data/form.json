@@ -1,0 +1,36 @@
+[
+    {
+        "checkbox": "Coolness",
+        "Properties": {
+            "label": "Are you Cool?",
+            "value": "cool"
+        }
+    },
+    {
+        "text": "Name",
+        "Properties": {
+            "label": "Full Name"
+        }
+    },
+    {
+        "select": "City",
+        "properties": {
+            "value": "Johnston",
+            "options": [
+                {
+                    "value": "Dedham",
+                    "label": "Dedham"
+                },
+                {
+                    "value": "Boston",
+                    "label": "Boston"
+                },
+                {
+                    "value": "Johnston",
+                    "label": "Johnston"
+                }
+            ]
+        }
+    }
+
+]
